@@ -4,8 +4,8 @@ Quick, copy-pasteable patterns that push an LLM out of “generic advice mode”
 
 For deeper explanations, see:
 
-- `01-llm-mental-models.md`
-- `02-basic-system-prompt.md`
+- [LLM mental models](./01-llm-mental-models.md)  
+- [Basic System Prompt](./02-basic-system-prompt.md)  
 
 ---
 
