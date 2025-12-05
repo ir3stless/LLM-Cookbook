@@ -17,8 +17,13 @@ Start anywhere that looks useful.
 
 ## 2. Prompting (coming soon)
 
-Planned:
+- [Prompt Cheatsheet](./03-prompt-cheatsheet.md)  
+  Quick, copy-pasteable patterns that push an LLM out of “generic advice mode” and into systematic analysis.
+  
+- [Task Shaping & Decomposition](./04-task-shaping-and-decomposition.md)  
+  Stop Asking Models to “Do Everything at Once”
 
+Planned:
 - Prompting mistakes I see everywhere
 - Few-shot patterns (with copyable templates)
 - Safety / disclaimers patterns
