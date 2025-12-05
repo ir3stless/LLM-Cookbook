@@ -33,17 +33,17 @@ Think of this like a mini book / notebook:
 
 ## What’s inside (for now)
 
-- `cookbook/00-index.md`  
+- [`cookbook/00-index.md`](./cookbook/00-index.md) 
   High-level map of the topics in this repo.
 
-- `cookbook/01-llm-mental-models.md`  
+- [`cookbook/01-llm-mental-models.md`](./cookbook/01-llm-mental-models.md)
   How to think about LLMs so you don’t fight them.
 
-- `cookbook/02-basic-system-prompt.md`  
+- [`cookbook/02-basic-system-prompt.md`](./cookbook/02-basic-system-prompt.md)
   A simple, solid system prompt pattern you can adapt to almost any app.
-
-- `cookbook/_template_recipe.md`  
-  The format I use for new “recipes” so this stays consistent.
+  
+- [`cookbook/03-prompt-cheatsheet.md`](./cookbook/03-prompt-cheatsheet.md)
+  Quick, copy-pasteable patterns that push an LLM out of “generic advice mode” and into systematic analysis.
 
 Over time this will grow into sections like:
 
