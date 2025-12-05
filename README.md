@@ -27,7 +27,6 @@ Think of this like a mini book / notebook:
    I’ll be adding new recipes and updating old ones as the LLM ecosystem changes.
 
 > **Note:** Right now this is **docs-only on purpose**.  
-> There are no running Python examples yet, so you don’t need API keys or credits to get value.
 
 ---
 
@@ -66,12 +65,6 @@ Short-term:
 - [x] Basic system prompt recipe
 - [ ] A “prompting mistakes I see everywhere” page
 - [ ] A simple RAG mental model (no code, just diagrams)
-- [ ] One or two domain-specific recipes (e.g. legal assistant, support bot)
-
-Later (when I want code):
-
-- [ ] Add a minimal `examples/` folder with pseudocode
-- [ ] Then add real examples that call APIs
 
 ---
 
