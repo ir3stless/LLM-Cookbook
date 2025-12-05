@@ -43,6 +43,9 @@ Think of this like a mini book / notebook:
   
 - [`cookbook/03-prompt-cheatsheet.md`](./cookbook/03-prompt-cheatsheet.md)
   Quick, copy-pasteable patterns that push an LLM out of “generic advice mode” and into systematic analysis.
+  
+- [`cookbook/04-task-shaping-and-decomposition.md`](./cookbook/04-task-shaping-and-decomposition.md)  
+  Stop Asking Models to “Do Everything at Once”
 
 Over time this will grow into sections like:
 
