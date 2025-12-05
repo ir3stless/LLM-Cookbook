@@ -10,7 +10,7 @@ Start anywhere that looks useful.
 - [LLM mental models](./01-llm-mental-models.md)  
   How to think about what LLMs are (and aren’t).
 
-- [Basic system prompt](./02-basic-system-prompt.md)  
+- [Basic system prompt](./02_basic-system-prompt.md)  
   A simple, reusable system prompt you can adapt to most apps.
 
 ---
