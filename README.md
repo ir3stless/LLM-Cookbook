@@ -68,10 +68,10 @@ Think of this like a mini book / notebook:
 
 These live outside the cookbook so the “core” mental models stay provider-agnostic:
 
-- [`integrations/openai/`](./integrations/openai/)  
+- [`integrations/openai/`](./Integrations/OpenAI/)  
   Notes, patterns, and gotchas for using OpenAI models and APIs.
 
-- [`integrations/lovable/`](./integrations/lovable/)  
+- [`integrations/lovable/`](./Integrations/Lovable/)  
   Notes and patterns for building / wiring apps with Lovable.
 
 Over time this will grow into sections like:
