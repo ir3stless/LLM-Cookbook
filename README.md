@@ -25,8 +25,8 @@ Think of this like a mini book / notebook:
    - Vibe-coding patterns for building with LLMs
 
 3. When you want provider/tool-specific stuff, check **integrations**:
-   - [`integrations/OpenAI/`](./integrations/OpenAI/)
-   - [`integrations/Lovable/`](./integrations/Lovable/)
+   - [`Integrations/OpenAI/`](./Integrations/OpenAI/)
+   - [`Integrations/Lovable/`](./Integrations/Lovable/)
 
 4. Come back later  
    I’ll be adding new recipes and updating old ones as the LLM ecosystem changes.
