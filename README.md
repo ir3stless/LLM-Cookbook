@@ -49,20 +49,23 @@ Think of this like a mini book / notebook:
 
 ### Cookbook
 
-- [`cookbook/00-index.md`](./cookbook/00-index.md)  
+- [`cookbook/00-index.md`](./cookbook/00-index.md)
   High-level map of the topics in this repo.
 
-- [`cookbook/01-llm-mental-models.md`](./cookbook/01-llm-mental-models.md)  
+- [`cookbook/01-llm-mental-models.md`](./cookbook/01-llm-mental-models.md)
   How to think about LLMs so you don’t fight them.
 
-- [`cookbook/02-basic-system-prompt.md`](./cookbook/02-basic-system-prompt.md)  
+- [`cookbook/02-basic-system-prompt.md`](./cookbook/02-basic-system-prompt.md)
   A simple, solid system prompt pattern you can adapt to almost any app.
   
-- [`cookbook/03-prompt-cheatsheet.md`](./cookbook/03-prompt-cheatsheet.md)  
+- [`cookbook/03-prompt-cheatsheet.md`](./cookbook/03-prompt-cheatsheet.md)
   Quick, copy-pasteable patterns that push an LLM out of “generic advice mode” and into systematic analysis.
   
-- [`cookbook/04-task-shaping-and-decomposition.md`](./cookbook/04-task-shaping-and-decomposition.md)  
+- [`cookbook/04-task-shaping-and-decomposition.md`](./cookbook/04-task-shaping-and-decomposition.md)
   How to stop asking models to “do everything at once” and instead shape work into smaller, saner steps.
+
+- [`cookbook/05-vibe-coding-with-llms.md`](./cookbook/05-vibe-coding-with-llms.md)
+  Build real stuff without feeling “good enough” at code
 
 ### Integrations (vendor-specific notes)
 
