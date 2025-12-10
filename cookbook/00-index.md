@@ -10,12 +10,15 @@ Start anywhere that looks useful.
 - [LLM mental models](./01-llm-mental-models.md)  
   How to think about what LLMs are (and aren’t).
 
-- [Basic system prompt](./02_basic-system-prompt.md)  
+- [Basic system prompt](./02-basic-system-prompt.md)  
   A simple, reusable system prompt you can adapt to most apps.
+
+- [Vibe coding with LLMS](./05-vibe-coding-with-llms.md)  
+  Build real stuff without feeling “good enough” at code
 
 ---
 
-## 2. Prompting (coming soon)
+## 2. Prompting
 
 - [Prompt Cheatsheet](./03-prompt-cheatsheet.md)  
   Quick, copy-pasteable patterns that push an LLM out of “generic advice mode” and into systematic analysis.
