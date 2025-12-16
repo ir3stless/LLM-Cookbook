@@ -81,6 +81,8 @@ That’s already enough for Lovable to scaffold a solid first version.
 
 ## 3. Bad vs better vs great prompts
 
+![Lovable chat interface](./horrible-lovable-prompt.png)
+
 ### Example 1 – Simple CRM for freelancers
 
 **Bad:**
@@ -201,6 +203,8 @@ You’re basically handing it a wireframe in text form.
 ---
 
 ### c) “Explain and then update”
+
+![Lovable chat interface](./lovable-chat-interface.png)
 
 After generation, click around and then talk to Lovable’s AI like this:
 
