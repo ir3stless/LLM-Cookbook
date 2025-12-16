@@ -1,3 +1,5 @@
+![Lovable screenshot](./lovable-home.png)
+
 # Lovable
 
 This folder contains everything specifically related to **Lovable.dev**:
@@ -6,3 +8,4 @@ This folder contains everything specifically related to **Lovable.dev**:
 - Patterns, prompts, and workflows for using Lovable alongside LLMs
 
 Think of this as the Lovable-specific section of the broader LLM cookbook.
+
